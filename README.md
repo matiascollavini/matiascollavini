@@ -1,7 +1,7 @@
-### Front End Developer
+### Front End Developer 🤞
 
 - JavaScript
 - React
 - Next JS
 
-https://cv-matias-collavini.vercel.app/
+Curriculum: https://cv-matias-collavini.vercel.app/
