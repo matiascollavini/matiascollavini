@@ -6,5 +6,5 @@
 ### - Astro
 ### - Tailwind
 
-
+<hr/>
 https://cv-matias-collavini.vercel.app/
