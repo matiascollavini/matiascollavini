@@ -2,7 +2,7 @@
 
 ### - JavaScript
 ### - React
-### - Next JS 
+### - Next JS
 ### - Astro
 ### - Tailwind
 
