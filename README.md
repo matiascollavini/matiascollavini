@@ -7,4 +7,4 @@
 ### - Tailwind
 
 <hr/>
-https://cv-matias-collavini.vercel.app/
+Links: https://cv-matias-collavini.vercel.app/
