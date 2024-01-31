@@ -1,9 +1,10 @@
-## Front End Developer 🤞
+## <Front End Developer />
 
 ### - JavaScript
 ### - React
 ### - Next JS
-### - Tailwind
 ### - Astro
+### - Tailwind
+
 
 https://cv-matias-collavini.vercel.app/
