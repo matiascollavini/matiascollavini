@@ -2,7 +2,7 @@
 
 ### - JavaScript
 ### - React
-### - Next JS <img src="next.html">
+### - Next JS <img src="next-js-icon-512x512-zuauazrk.png">
 ### - Astro
 ### - Tailwind
 
