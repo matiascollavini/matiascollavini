@@ -1,4 +1,4 @@
-## < Front End Developer /> 👨🏻‍💻
+## < Full Stack Developer /> 👨🏻‍💻
 
 ### - JavaScript
 ### - React
