@@ -1,8 +1,8 @@
 ## < Full Stack Developer /> 👨🏻‍💻
 
 ### - Typescript
+### - NextJS
 ### - React
-### - Next JS
 ### - Astro
 ### - Tailwind
 
