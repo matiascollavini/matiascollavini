@@ -1,6 +1,6 @@
 ## < Full Stack Developer /> 👨🏻‍💻
 
-### - JavaScript
+### - Typescript
 ### - React
 ### - Next JS
 ### - Astro
